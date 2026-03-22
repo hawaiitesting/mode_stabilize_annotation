@@ -1,0 +1,2 @@
+# mode_stabilize_annotation
+更适合中国宝宝体质的自稳模式代码注释
